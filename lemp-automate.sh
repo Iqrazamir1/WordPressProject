@@ -1,6 +1,4 @@
 #!/bin/bash
-sudo apt -y update 
-sudo apt -y upgrade
 
 # This file will contain the output of our LEMP stack unit tests.
 sudo touch /root/testing.txt
