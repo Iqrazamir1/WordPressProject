@@ -1,4 +1,7 @@
 #!/bin/bash
+sudo apt -y update 
+sudo apt -y upgrade
+
 sudo apt -y install git 
 sudo cd /root/
 sudo git clone https://github.com/Iqrazamir1/WordPressProject.git
