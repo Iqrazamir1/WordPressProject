@@ -3,6 +3,7 @@
 # This file will contain the output of our LEMP stack unit tests.
 sudo touch /root/testing.txt
 
+# Install Nginx 
 sudo apt -y install nginx
 
 # Starts and enables nginx on a server reboot. The 2nd command will only run if the first command is successful. 
